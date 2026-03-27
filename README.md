@@ -30,12 +30,13 @@ This app uses **Streamlit**, **LangChain**, **ChromaDB**, and **Groq LLaMA 3.3**
 ---
 
 ## 📂 Project Structure
+```
 QA_RAG_Dynamicpdf/
 │
 ├── QA_app.py # Streamlit UI
 ├── rag_utility.py # RAG pipeline logic
 └── requirements.txt
-
+```
 ---
 
 ## ⚙️ Setup Instructions
